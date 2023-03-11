@@ -27,6 +27,7 @@ paginate_path: page:num
 # Collections
 collections:
   posts:
-    title: Blog - Xdddd
+    title: Blog
     output: true
     description: "The blogs here!"
+  
